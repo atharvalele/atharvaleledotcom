@@ -15,7 +15,7 @@ author = "Hugo Authors"
 
 ### Education
 
-- Will be starting my **M.S. ECE - Embedded Systems** at [Portland State University](https://pdx.edu) in **Fall 2021**.
+- Pursuing my **M.S. ECE - Embedded Systems** at [Portland State University](https://pdx.edu).
 - Completed my **Bachelor of Engineering (Electronics & Telecommunication)** at [PVG's College of Engineering and Technology, Pune](https://pvgcoet.ac.in) in **2020**.
 
 ### Hobbies
