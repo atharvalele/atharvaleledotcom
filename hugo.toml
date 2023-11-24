@@ -1,0 +1,50 @@
+baseURL = 'https://atharvalele.com/'
+languageCode = 'en-us'
+title = "Atharva Lele's Blog"
+theme = 'smigle'
+
+# Site Menu
+[[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+
+[[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 2
+
+[[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 3
+
+# Site Author & Subtitle
+[params]
+    author = 'Atharva Lele'
+    subtitle = 'talks about embedded systems and other things'
+    dateFmt = '2 Jan 2006'
+    brandIconFile = 'site-resources/circuit.svg'
+
+[[params.meta]]
+    favicon = 'false'
+
+# Social Buttons   
+[[params.social]]
+    name = 'GitHub'
+    url = 'https://github.com/atharvalele'
+
+[[params.social]]
+    name = 'LinkedIn'
+    url = 'https://www.linkedin.com/in/atharvalele/'
+
+[[params.social]]
+    name = 'Instagram'
+    url = 'https://www.instagram.com/atharvalele/'
+
+[[params.social]]
+    name = 'Threads'
+    url = 'https://www.threads.net/@atharvalele'
